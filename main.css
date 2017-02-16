@@ -6,3 +6,12 @@ body {
 h1 {
     Color: blue; 
 }
+
+img {
+  width: 200px; 
+  height: 500px; 
+  border: 3px solid viridian 
+    /*
+    I can type a comment here
+    */
+}
